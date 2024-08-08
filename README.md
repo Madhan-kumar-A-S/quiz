@@ -1,1 +1,1 @@
-for login app & quiz also
+for login app & quiz app also
